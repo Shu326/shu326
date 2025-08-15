@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Shubham Hiralal Rajput  
 
-<!--
-**Shu326/shu326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Full Stack Java Developer** | BCA 2nd Year Student | HTML, CSS, Java, JavaScript Learner  
 
-Here are some ideas to get you started:
+💻 **About Me**  
+- 🎓 BCA 2nd year student from Jalna, Maharashtra  
+- 🌱 Currently learning Full Stack Development (HTML, CSS, Java, JavaScript)  
+- 🎯 Goal: Secure a high-paying developer job & grow in tech industry  
+- 📌 Looking for Web Development / Java Full Stack internships  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Tech Stack**  
+- Frontend: HTML, CSS  
+- Backend: Java (learning)  
+- Tools: Git, GitHub  
+
+📂 **Featured Projects**  
+- Student Registration Form (HTML)  
+- Personal Portfolio Website (coming soon)  
+- More HTML/CSS projects uploading regularly  
+
+📫 **Connect with Me**  
+- LinkedIn: [linkedin.com/in/shubham-rajput](https://linkedin.com/in/shubham-rajput)  
+- GitHub: [github.com/Shu326](https://github.com/Shu326)  
+
+⭐ **Fun Fact**: Code + Tea = Perfect Day!
