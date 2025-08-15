@@ -19,7 +19,6 @@
 - More HTML/CSS projects uploading regularly  
 
 📫 **Connect with Me**  
-- LinkedIn: [linkedin.com/in/shubham-rajput](https://linkedin.com/in/shubham-rajput)  
-- GitHub: [github.com/Shu326](https://github.com/Shu326)  
-
+- LinkedIn: [linkedin.com/in/shubhamrajput93](https://www.linkedin.com/in/shubhamrajput93)  
+- GitHub: [github.com/Shu326](https://github.com/Shu326)
 ⭐ **Fun Fact**: Code + Tea = Perfect Day!
